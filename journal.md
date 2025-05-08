@@ -1,3 +1,6 @@
 Onjoli Krywiak
 BrainHack Git Module
-Introduction section
+Introduction        
+Results
+References
+
